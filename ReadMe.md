@@ -86,13 +86,7 @@ Building scalable backend systems with microservices architecture
 Contributing to open-source projects to give back to the community
 
 
-📫 Get in Touch
-I'm always excited to collaborate on innovative projects or discuss the latest in tech! Feel free to reach out:
 
-Instagram: paramsandhu_007
-LinkedIn: paramjeetsingh007
-X: params007
-Email: paramjeetsingh121223@gmail.com
 
 
 💡 Fun Fact
