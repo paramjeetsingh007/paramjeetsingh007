@@ -64,7 +64,7 @@ I thrive on creating end-to-end solutions — from **intuitive UI/UX** to **secu
 ## ⚡ Tech Stack
 
 **Frontend**
-•`HTML` •`CSS` • ` React.js` • `Redux` • `Tailwind CSS` • `Bootstrap` • `Vite`
+`HTML` •`CSS` • ` React.js` • `Redux` • `Tailwind CSS` • `Bootstrap` • `Vite`
 
 **Backend**
 `Node.js` • `Express.js` • `Strapi`
