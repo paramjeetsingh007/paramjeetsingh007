@@ -30,6 +30,7 @@ I thrive on creating end-to-end solutions — from **intuitive UI/UX** to **secu
 * Tailored resume generation
 * Template customization
 * PDF export
+ 
 
 ### 📒 NoteNest
 
@@ -38,6 +39,7 @@ I thrive on creating end-to-end solutions — from **intuitive UI/UX** to **secu
 * Secure notes with CRUD
 * User authentication
 * Categorization + Search
+ 
 
 ### ✍️ Blog Application
 
@@ -46,6 +48,7 @@ I thrive on creating end-to-end solutions — from **intuitive UI/UX** to **secu
 * User authentication & profiles
 * Post creation/editing
 * Comments system
+ 
 
 ### 🌦 Weather Application
 
@@ -54,25 +57,27 @@ I thrive on creating end-to-end solutions — from **intuitive UI/UX** to **secu
 * Real-time weather updates
 * Location-based forecast
 * Responsive UI
+  
 
 ---
 
 ## ⚡ Tech Stack
 
-Frontend
-HTML • CSS • React.js • Redux • Tailwind CSS • Bootstrap • Vite
+**Frontend**
+•`HTML` •`CSS` • ` React.js` • `Redux` • `Tailwind CSS` • `Bootstrap` • `Vite`
 
-Backend
-Node.js • Express.js • Strapi
+**Backend**
+`Node.js` • `Express.js` • `Strapi`
 
-Databases
-MongoDB • MySQL
+**Databases**
+`MongoDB` • `MySQL`
 
-Other Tools
-Git & GitHub • Postman • Firebase • Vercel • Render • Chart.js
+**Other Tools**
+`Git & GitHub` • `Postman` • `Firebase` • `Vercel` • `Render` • `Chart.js`
 
-Languages
-JavaScript • C • C++
+**Languages**
+`JavaScript` • `C` • `C++`
+
 ---
 
 ## 🌱 Currently Exploring
@@ -82,11 +87,9 @@ JavaScript • C • C++
 * Microservices architecture for scalable backends
 * Contributing to open-source
 
-
-
-
-
 ---
+
+
 
 ## 💡 Fun Fact
 
