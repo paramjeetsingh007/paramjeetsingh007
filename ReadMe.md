@@ -83,18 +83,9 @@ I thrive on creating end-to-end solutions — from **intuitive UI/UX** to **secu
 * Microservices architecture for scalable backends
 * Contributing to open-source
 
----
 
-## 📊 GitHub Stats & Trophies
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" alt="GitHub Streak" height="160"/>
-</p>  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=tokyonight&no-frame=true&row=1&column=4" alt="GitHub Trophies"/>
-</p>  
 
 ---
 
