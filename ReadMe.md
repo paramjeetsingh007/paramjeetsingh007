@@ -1,6 +1,4 @@
-Perfect 👌 ye abhi kaafi strong lag raha hai, lekin isko aur **GitHub-ready** banane ke liye ek **modern structure + thoda visual section (stats/trophies)** add kar dete hain. Isse profile lamba bhi lagega aur “wow” factor bhi aayega. Maine neeche updated version banaya hai jo **bilkul chota nahi hai**, readable aur professional lagta hai.
 
----
 
 # 👋 Welcome to My GitHub Profile!
 
