@@ -59,21 +59,20 @@ I thrive on creating end-to-end solutions — from **intuitive UI/UX** to **secu
 
 ## ⚡ Tech Stack
 
-**Frontend**
-`React.js` • `Redux` • `Tailwind CSS` • `Bootstrap` • `Vite`
+Frontend
+HTML • CSS • React.js • Redux • Tailwind CSS • Bootstrap • Vite
 
-**Backend**
-`Node.js` • `Express.js` • `Strapi`
+Backend
+Node.js • Express.js • Strapi
 
-**Databases**
-`MongoDB` • `MySQL`
+Databases
+MongoDB • MySQL
 
-**Other Tools**
-`Git & GitHub` • `Postman` • `Firebase` • `Vercel` • `Render` • `Chart.js`
+Other Tools
+Git & GitHub • Postman • Firebase • Vercel • Render • Chart.js
 
-**Languages**
-`JavaScript` • `C` • `C++`
-
+Languages
+JavaScript • C • C++
 ---
 
 ## 🌱 Currently Exploring
