@@ -80,7 +80,7 @@ I thrive on creating end-to-end solutions — from **intuitive UI/UX** to **secu
 
 ---
 
-## 🌱 Currently Exploring
+## 😜 Currently Exploring
 
 * AI-powered apps for better UX
 * Advanced React & Node.js optimization
