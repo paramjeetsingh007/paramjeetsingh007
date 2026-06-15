@@ -1,100 +1,118 @@
+# Hi, I'm Paramjeet Singh 👋
 
+### Full Stack Developer • MERN Stack • React • Node.js
 
-# 👋 Welcome to My GitHub Profile!
-
-I'm a **Full Stack Developer** specializing in the **MERN Stack (MongoDB, Express.js, React, Node.js)**, with a passion for building **modern, scalable, and high-performance web applications**.
-I thrive on creating end-to-end solutions — from **intuitive UI/UX** to **secure, optimized backends**. My goal is to craft applications that solve **real-world problems** while staying ahead of **latest web trends**.
+I build modern, scalable, and high-performance web applications — from intuitive UIs to secure, optimized backends. My goal is to craft apps that solve real-world problems while staying ahead of the latest web trends.
 
 ---
 
 ## 🚀 About Me
 
-* 👨‍💻 **Full Stack Developer** – Skilled in frontend, backend, APIs & databases
-* 💼 **Current Role** – Handling end-to-end app development (UI/UX → Backend)
-* 🎓 **Internship Experience** – Delivered real-world projects, sharpened coding + problem-solving
-* 🌟 **Focus Areas**
-
-  * AI-driven web apps
-  * Performance optimization (React + Node.js)
-  * Scalable APIs & backend systems
-  * Exploring cutting-edge MERN stack
+- 👨‍💻 **Full Stack Developer** — Skilled in frontend, backend, APIs & databases
+- 💼 **Professional Experience** — Delivered real-world projects in a professional environment
+- 🎓 **Internship Experience** — Sharpened coding & problem-solving on live projects
+- 🌟 **Focus Areas** — AI-driven web apps • Performance optimization • Scalable APIs • MERN Stack
 
 ---
 
 ## 🛠 Featured Projects
 
-### 🤖 AI Resume Builder
+### 🏫 Faculty Management System
+**React.js • Node.js • Express.js • MongoDB** &nbsp;|&nbsp; 2026 &nbsp;|&nbsp; 💼 Office Project
 
-**Tech Stack:** React, Node.js, Express, MongoDB, AI APIs
+> Developed during my professional role to manage faculty activities, lectures, and daily academic reports efficiently.
 
-* Tailored resume generation
-* Template customization
-* PDF export
- 
-
-### 📒 NoteNest
-
-**Tech Stack:** React, Tailwind CSS, Node.js, MongoDB
-
-* Secure notes with CRUD
-* User authentication
-* Categorization + Search
- 
-
-### ✍️ Blog Application
-
-**Tech Stack:** React, Express, MongoDB, Firebase Auth
-
-* User authentication & profiles
-* Post creation/editing
-* Comments system
- 
-
-### 🌦 Weather Application
-
-**Tech Stack:** React, Tailwind CSS, OpenWeatherMap API
-
-* Real-time weather updates
-* Location-based forecast
-* Responsive UI
-  
+- Built modules to track faculty daily reports, attendance, and lecture-wise work updates
+- Enabled monitoring of student progress — topics covered & pending syllabus status
+- Designed a responsive dashboard with secure login, real-time data updates & report management
 
 ---
+
+### 🛒 Digital E-Cart
+**React • Redux Toolkit • Tailwind CSS • React Router** &nbsp;|&nbsp; [🔗 Live Demo](https://e-cart-redux-ashy.vercel.app/)
+
+> A fully functional e-commerce cart app with a complete 3-step checkout flow.
+
+- Live product search, add to cart, quantity management & cart persistence via localStorage
+- 3-step checkout — Address form with validation → Payment method (COD / UPI / Card) → Order confirmation with unique Order ID
+- Responsive UI with skeleton loading, empty states & toast notifications
+
+---
+
+### 🎨 Media Search App
+**React • Redux Toolkit • Tailwind CSS • Unsplash API • Pexels API** &nbsp;|&nbsp; [🔗 Live Demo](https://media-library-project-using-redux.vercel.app/)
+
+> Search and explore photos & videos with a personal saved collection.
+
+- Search photos via Unsplash API and videos via Pexels API with real-time results
+- Save favorites to a personal collection — persisted in localStorage
+- Load More pagination, glassmorphism UI, modern dark theme, fully mobile-friendly
+
+---
+
+### 🤖 AI Resume Builder
+**React • Node.js • Express • MongoDB • AI APIs**
+
+- Tailored resume generation using AI
+- Template customization & PDF export
+
+---
+
+### 📒 NoteNest
+**React • Tailwind CSS • Node.js • MongoDB**
+
+- Secure notes with full CRUD, user authentication, categorization & search
+
+---
+
+### ✍️ Blog Application
+**React • Express • MongoDB • Firebase Auth**
+
+- User authentication & profiles, post creation/editing, comments system
+
+---
+
+
 
 ## ⚡ Tech Stack
 
 **Frontend**
-`HTML` •`CSS` • ` React.js` • `Redux` • `Tailwind CSS` • `Bootstrap` • `Vite`
+`React.js` • `Redux Toolkit` • `Tailwind CSS` • `Bootstrap` • `HTML` • `CSS` • `Vite`
 
 **Backend**
-`Node.js` • `Express.js` • `Strapi`
+`Node.js` • `Express.js`
 
 **Databases**
 `MongoDB` • `MySQL`
 
-**Other Tools**
-`Git & GitHub` • `Postman` • `Firebase` • `Vercel` • `Render` • `Chart.js`
+**Tools & Platforms**
+`Git & GitHub` • `Postman` • `Firebase` • `Vercel` • `Render`
 
 **Languages**
 `JavaScript` • `C` • `C++`
 
 ---
 
-## 😜 Currently Exploring
+## 🔭 Currently Exploring
 
-* AI-powered apps for better UX
-* Advanced React & Node.js optimization
-* Microservices architecture for scalable backends
-* Contributing to open-source
+- AI-powered apps for better UX
+- Advanced React & Node.js optimization
+- Microservices architecture for scalable backends
+- Contributing to open-source
 
 ---
-
-
 
 ## 💡 Fun Fact
 
-When I’m not coding, you’ll find me exploring **AI trends**, reading about **tech innovations**, or sipping **coffee while debugging at midnight ☕**
+When I'm not coding, you'll find me exploring **AI trends**, reading about **tech innovations**, or sipping **coffee while debugging at midnight ☕**
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=paramjeetsingh007&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paramjeetsingh007&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=paramjeetsingh007&theme=tokyonight&hide_border=true" width="60%" />
+</p>
