@@ -17,7 +17,7 @@ I build modern, scalable, and high-performance web applications — from intuiti
 
 ## 🛠 Featured Projects
 
-### 🏫 Faculty Management System `Highlight`
+### 🏫 Faculty Management System 
 **React.js • Node.js • Express.js • MongoDB • Firebase Auth** &nbsp;|&nbsp; 2026
 
 > A full-scale academic management platform developed to manage faculty activities, attendance, lecture reports, and student progress tracking.
