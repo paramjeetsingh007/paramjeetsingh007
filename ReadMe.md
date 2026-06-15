@@ -104,10 +104,10 @@ I build modern, scalable, and high-performance web applications — from intuiti
 `React.js` • `Redux Toolkit` • `Tailwind CSS` • `Bootstrap` • `Vite` • `HTML5 / CSS3`
 
 **Backend Frameworks & APIs**
-`Node.js` • `Express.js` • `Django` • `Django REST Framework (DRF)`
+`Node.js` • `Express.js` • 
 
 **Databases**
-`MongoDB` • `PostgreSQL` • `MySQL` • `SQLite`
+`MongoDB`  • `MySQL` 
 
 **Tools & Platforms**
 `Git & GitHub` • `Postman` • `Firebase` • `Vercel` • `Render` • `MilesWeb`
