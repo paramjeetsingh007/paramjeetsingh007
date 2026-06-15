@@ -106,13 +106,5 @@ I build modern, scalable, and high-performance web applications — from intuiti
 
 When I'm not coding, you'll find me exploring **AI trends**, reading about **tech innovations**, or sipping **coffee while debugging at midnight ☕**
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paramjeetsingh007&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paramjeetsingh007&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=paramjeetsingh007&theme=tokyonight&hide_border=true" width="60%" />
-</p>
