@@ -1,6 +1,6 @@
 # Hi, I'm Paramjeet Singh 👋
 
-### Full Stack Developer • MERN Stack • React • Node.js
+### Full Stack Developer • MERN Stack • React 
 
 I build modern, scalable, and high-performance web applications — from intuitive UIs to secure, optimized backends. My goal is to craft apps that solve real-world problems while staying ahead of the latest web trends.
 
@@ -8,103 +8,120 @@ I build modern, scalable, and high-performance web applications — from intuiti
 
 ## 🚀 About Me
 
-- 👨‍💻 **Full Stack Developer** — Skilled in frontend, backend, APIs & databases
-- 💼 **Professional Experience** — Delivered real-world projects in a professional environment
-- 🎓 **Internship Experience** — Sharpened coding & problem-solving on live projects
-- 🌟 **Focus Areas** — AI-driven web apps • Performance optimization • Scalable APIs • MERN Stack
+- 👨‍💻 **Full Stack Developer** — Skilled in frontend, backend, APIs & databases.
+- 💼 **Professional Experience** — Delivering robust web apps in a professional corporate setting.
+- 🎓 **Internship Experience** — Sharpened production-ready coding & debugging on live systems.
+- 🌟 **Focus Areas** — Full-Stack Web Development • Django Architectures • Performance Optimization • Scalable REST APIs.
 
 ---
 
 ## 🛠 Featured Projects
 
-### 🏫 Faculty Management System
-**React.js • Node.js • Express.js • MongoDB** &nbsp;|&nbsp; 2026 &nbsp;|&nbsp; 💼 Office Project
+### 🏫 Faculty Management System `Highlight`
+**React.js • Node.js • Express.js • MongoDB • Firebase Auth** &nbsp;|&nbsp; 2026
 
-> Developed during my professional role to manage faculty activities, lectures, and daily academic reports efficiently.
+> A full-scale academic management platform developed to manage faculty activities, attendance, lecture reports, and student progress tracking.
 
-- Built modules to track faculty daily reports, attendance, and lecture-wise work updates
-- Enabled monitoring of student progress — topics covered & pending syllabus status
-- Designed a responsive dashboard with secure login, real-time data updates & report management
+- Built robust modules to track faculty daily reports, attendance, and lecture-wise work updates.
+- Enabled administrative monitoring of student progress, topics covered, and pending syllabus status.
+- Designed a highly responsive dashboard with secure authentication and real-time data management.
 
 ---
 
-### 🛒 Digital E-Cart
-**React • Redux Toolkit • Tailwind CSS • React Router** &nbsp;|&nbsp; [🔗 Live Demo](https://e-cart-redux-ashy.vercel.app/)
+### 🛒 Digital E-Cart `Highlight`
+**React • Redux Toolkit • Tailwind CSS • React Router** &nbsp;|&nbsp; [🔗 Live Demo](https://e-cart-redux-git-main-paramjeetsingh007s-projects.vercel.app/)
 
-> A fully functional e-commerce cart app with a complete 3-step checkout flow.
+> A modern, lightning-fast e-commerce application with dynamic global state management.
 
-- Live product search, add to cart, quantity management & cart persistence via localStorage
-- 3-step checkout — Address form with validation → Payment method (COD / UPI / Card) → Order confirmation with unique Order ID
-- Responsive UI with skeleton loading, empty states & toast notifications
+- Implemented Redux Toolkit for complete cart management, persistence via `localStorage`, and quantity controls.
+- Integrated seamless product discovery through real-time search, category filtering, and sorting features.
+- Designed a completely responsive, modern UI using Tailwind CSS with smooth device transitions.
+
+---
+
+### 🎓 Medical College Website
+**React.js • Python • Django • SQLite • Tailwind CSS**
+
+> A responsive institutional web platform featuring dynamic data architectures and content management.
+
+- Developed a dynamic frontend in React.js with reusable components for course guides, admissions, and notice boards.
+- Utilized the built-in **Django Admin Panel** backed by relational **SQLite** database models for quick data entries.
+- Optimized frontend assets and components for core web vitals, drastically improving loading times and SEO visibility.
+
+---
+
+### 🦷 Dental Clinic Website
+**React.js • Python • Django • Django REST Framework • SQLite**
+
+> A professional healthcare management system engineered for client scheduling and service showcases.
+
+- Built an interactive React frontend for live service listings and a fluid, real-time appointment booking interface.
+- Connected a decoupled UI to secure RESTful endpoints built with **Django REST Framework (DRF)**.
+- Integrated security measures including **CSRF tokens** inside API headers for safe and encrypted patient data operations.
+
+---
+
+### 🏗️ Construction Company Website
+**React.js • Node.js • Express.js • MongoDB • Tailwind CSS**
+
+> A polished commercial business application focused on lead generation and project visibility.
+
+- Engineered an intuitive project showcase portfolio and service layout to drive modern user engagement.
+- Integrated secure, validated lead generation forms to capture potential client inquiries seamlessly.
+
+---
+
+### 💻 IT Company Website
+**Built with MERN Stack (React, Node, Express, MongoDB)**
+
+- Corporate IT services web platform featuring clean company overviews and dynamic service catalogs.
+- Structured with fully optimized SEO meta tags and fully responsive design across multi-viewport devices.
 
 ---
 
 ### 🎨 Media Search App
-**React • Redux Toolkit • Tailwind CSS • Unsplash API • Pexels API** &nbsp;|&nbsp; [🔗 Live Demo](https://media-library-project-using-redux.vercel.app/)
+**React • Redux Toolkit • Tailwind CSS • Unsplash API • Pexels API**
 
-> Search and explore photos & videos with a personal saved collection.
-
-- Search photos via Unsplash API and videos via Pexels API with real-time results
-- Save favorites to a personal collection — persisted in localStorage
-- Load More pagination, glassmorphism UI, modern dark theme, fully mobile-friendly
-
----
-
-### 🤖 AI Resume Builder
-**React • Node.js • Express • MongoDB • AI APIs**
-
-- Tailored resume generation using AI
-- Template customization & PDF export
+- A dual-API integrated media discovery application capable of fetching high-quality assets.
+- Implemented client-side global state logic using Redux to save, delete, and persist a personal collection.
 
 ---
 
 ### 📒 NoteNest
-**React • Tailwind CSS • Node.js • MongoDB**
+**React • Node.js • Express.js • MongoDB • Tailwind CSS**
 
-- Secure notes with full CRUD, user authentication, categorization & search
-
----
-
-### ✍️ Blog Application
-**React • Express • MongoDB • Firebase Auth**
-
-- User authentication & profiles, post creation/editing, comments system
+- A secure note-keeping hub backed by individual user authorization and full CRUD capability.
+- Added instant text search routing and clean data categorization layouts.
 
 ---
-
-
 
 ## ⚡ Tech Stack
 
-**Frontend**
-`React.js` • `Redux Toolkit` • `Tailwind CSS` • `Bootstrap` • `HTML` • `CSS` • `Vite`
+**Programming Languages**
+`JavaScript (ES6+)` • `Python` • `C` • `C++`
 
-**Backend**
-`Node.js` • `Express.js`
+**Frontend Frameworks & Libraries**
+`React.js` • `Redux Toolkit` • `Tailwind CSS` • `Bootstrap` • `Vite` • `HTML5 / CSS3`
+
+**Backend Frameworks & APIs**
+`Node.js` • `Express.js` • `Django` • `Django REST Framework (DRF)`
 
 **Databases**
-`MongoDB` • `MySQL`
+`MongoDB` • `PostgreSQL` • `MySQL` • `SQLite`
 
 **Tools & Platforms**
-`Git & GitHub` • `Postman` • `Firebase` • `Vercel` • `Render`
-
-**Languages**
-`JavaScript` • `C` • `C++`
+`Git & GitHub` • `Postman` • `Firebase` • `Vercel` • `Render` • `MilesWeb`
 
 ---
 
 ## 🔭 Currently Exploring
 
-- AI-powered apps for better UX
-- Advanced React & Node.js optimization
-- Microservices architecture for scalable backends
-- Contributing to open-source
+- Advanced optimizations in decoupled React + Django Architectures.
+- Performance scaling for high-traffic REST APIs.
+- Microservices & secure backend cloud deployments.
 
 ---
 
 ## 💡 Fun Fact
 
-When I'm not coding, you'll find me exploring **AI trends**, reading about **tech innovations**, or sipping **coffee while debugging at midnight ☕**
-
-
-
+When I'm not coding, you'll find me analyzing **SEO & digital trends**, tinkering with **UI designs**, or sipping **coffee while debugging at midnight ☕**
