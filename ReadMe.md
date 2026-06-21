@@ -28,7 +28,7 @@ I build modern, scalable, and high-performance web applications — from intuiti
 
 ---
 
-### 🛒 Digital E-Cart `Highlight`
+### 🛒 Digital E-Cart 
 **React • Redux Toolkit • Tailwind CSS • React Router** &nbsp;|&nbsp; [🔗 Live Demo](https://e-cart-redux-git-main-paramjeetsingh007s-projects.vercel.app/)
 
 > A modern, lightning-fast e-commerce application with dynamic global state management.
